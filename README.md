@@ -4,6 +4,9 @@
 
 here are the project links :- 
 https://github.com/OmkarRele09/C-Engine-Project-003/blob/main/areaofcirclecalculator.c
+https://github.com/OmkarRele09/C-Engine-Project-003/blob/main/areaofrectanglecalculator.c
+https://github.com/OmkarRele09/C-Engine-Project-003/blob/main/areaofsquarecalculator.c
+https://github.com/OmkarRele09/C-Engine-Project-003/blob/main/areaoftrianglecalculator.c
 
 ## 🔥 About  
 A simple, interactive program that calculates the **area of 4 basic shapes** — Rectangle, Square, Circle, and Triangle — using user input and mathematical formulas.
