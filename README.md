@@ -24,5 +24,3 @@ A simple, interactive program that calculates the **area of 4 basic shapes** —
 | Square | Area = side × side |
 | Circle | Area = π × r² |
 | Triangle | Area = ½ × base × height |
-
-## 🧩 Example Output  
